@@ -21,7 +21,10 @@ Clone the project repository to your local machine.
 Open the **index.html** file in your web browser to access the chatbot interface.
 
 Interact with the chatbot by asking questions or seeking information on beginner-level topics.
-**Note:** ```
+**Note:**
+
+```
+
 You must use the keywords that the code knows to get a response, otherwise you won't get anything returned. The keywords are: **_math_**, **_art_**, **_music_**, **_history_**, **_science_**, and **_technology_**. This is just a temporary issue as in the future this Chatbot will become more advanced.
 
 ```
@@ -49,6 +52,8 @@ Frameworks: Basic Natural Language Processing libraries for simple conversation,
 Open the index.html file in your web browser.
 Ask questions or seek information on beginner-level topics.
 The chatbot will respond with simplified explanations and introductory resources.
+
+```
 
 ```
 
